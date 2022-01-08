@@ -8,7 +8,7 @@ import Footer from "./Components/Footer";
 
 function App() {
   return (
-    <div className="App navbar-mobile">
+    <div>
       <Navbarmobile/>
       <Informativemobile/>
       <Card1/>
